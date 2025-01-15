@@ -1,0 +1,132 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.root{
+    width: 100vw;
+    height: 100vh;
+}
+
+.container{
+    background-color: rgba(130, 224, 130);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+
+}
+
+.box{
+    background-color: azure;
+    width: 400px;
+    height: 520px;
+    border-radius: 10px;
+    margin-left: 500px;
+    margin-top: 70px;
+}
+
+.box p{
+    margin-top: 30px;
+    margin-left: 160px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    color: brown;
+    margin-bottom: 25px
+}
+
+#namecol{
+    margin-left: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    font-weight: 700;
+    color: brown;
+}
+#name{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+    padding: 1px;
+    border-radius: 5px;
+    width: 350px;
+    margin-top: 8px;
+}
+#usernamecol{
+    margin-left: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    font-weight: 700;
+    color: brown;
+}
+#username{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+    padding: 1px;
+    border-radius: 5px;
+    width: 350px;
+    margin-top: 8px;
+}
+#emailcol{
+    margin-left: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    font-weight: 700;
+    color: brown;
+}
+#email{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+    padding: 1px;
+    border-radius: 5px;
+    width: 350px;
+    margin-top: 8px;
+}
+#passwordcol{
+    margin-left: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    font-weight: 700;
+    color: brown;
+}
+#password{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+    padding: 1px;
+    border-radius: 5px;
+    width: 350px;
+    margin-top: 8px;
+}
+#confirmcol{
+    margin-left: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    font-weight: 700;
+    color: brown;
+}
+#confirm{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+    padding: 1px;
+    border-radius: 5px;
+    width: 350px;
+    margin-top: 8px;
+}
+
+button{
+    width: 350px;
+    height: 30px;
+    margin-left: 20px;
+    margin-top: 30px;
+    background-color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+}
+button:hover{
+    transition: 0.24s ease-in-out;
+    background-color: goldenrod;
+    color: azure;
+    box-shadow: 1px 1px 3px 4px goldenrod;
+}

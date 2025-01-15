@@ -1,0 +1,151 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.root{
+    background: url(Fruice\ bg1.avif) no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.box{
+    background-color: blanchedalmond;
+    height: 600px;
+    width: 600px;
+    margin-top: 12px;
+    margin-left: 120px;
+    box-shadow: 8px 3px 4px 15px rgba(132, 72, 12, 0.896);
+}
+
+.contain{
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+fieldset{
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+.logo img{
+    margin-left: 580px;
+    margin-top: 20px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+.logo p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight: bolder;
+    text-align: center;
+    color: black;
+    text-shadow: 4px 4px 7px chocolate;
+    margin-bottom: 20px;
+    margin-top: 5px;
+}
+
+#name{
+    padding: 2px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 390px;
+    margin-left: 10px;
+}
+#email{
+    padding: 2px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 390px;
+    margin-left: 40px;
+}
+#phn{
+    padding: 2px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 390px;
+    margin-left: 10px;
+}
+#address{
+    padding: 2px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 470px;
+    margin-left: 10px;
+}
+#identity{
+    padding: 2px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 335px;
+    margin-left: 10px;
+}
+#date{
+    padding: 2px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 385px;
+    margin-left: 50px;
+}
+legend{
+    margin-top: 10px;
+    font-weight: 700;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#namecol{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700;
+}
+#emailcol{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700;
+}
+#phncol{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700;
+}
+#addresscol{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700;
+}
+#identitycol{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700;
+}
+#datecol{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700;
+}
+
+button{
+    margin-top: 15px;
+    margin-bottom: 10px;
+    margin-left: 180px;
+    width: 120px;
+    height: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: chocolate;
+    box-shadow: 2px 2px 6px brown;
+}
+button:hover{
+    transition: 0.24s ease-in-out;
+    background-color: rgba(70, 142, 158, 0.78);
+    box-shadow: 2px 2px 6px rgba(70, 142, 158, 0.78);
+}
+
+.footer{
+    margin-top: 20px;
+    background-color: rgba(49, 222, 49, 0.933);
+    width: 100vw;
+    height: 39px;
+}
