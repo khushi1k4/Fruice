@@ -4,7 +4,9 @@
 Video of the UI/UX design for it using HTML & CSS at initial stage of learning!
 <br>
 Watch Video:
-https://github.com/user-attachments/assets/295a37ad-5bfa-4cd2-9f4b-718da1aaa76f
+
+https://github.com/user-attachments/assets/361eda66-e294-45c3-80d6-b2f08c9182ae
+
 <br>
 <br>
 This is a beverage based local imaginary brand's website having UI/UX using HTML &amp; CSS created during initial phase of my learning Devlopment. 
