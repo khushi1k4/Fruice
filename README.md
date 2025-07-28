@@ -1,6 +1,5 @@
 # Fruice
-<br>
-<br>
+
 Video of the UI/UX design for it using HTML & CSS at initial stage of learning!
 <br>
 Watch Video:
