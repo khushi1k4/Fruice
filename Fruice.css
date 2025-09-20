@@ -267,3 +267,14 @@ footer{
     width: 100vw;
     height: 50px;
 }
+
+.copyright{
+    display: flex;
+    font-size: medium;
+    color:crimson;
+    padding: 15px;
+    font-weight: 700;
+    align-items: center;
+    justify-content: center;
+    font-size: medium;
+}

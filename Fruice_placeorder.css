@@ -147,5 +147,17 @@ button:hover{
     margin-top: 20px;
     background-color: rgba(49, 222, 49, 0.933);
     width: 100vw;
-    height: 39px;
+    height: 50px;
 }
+
+.copyright{
+    display: flex;
+    font-size: medium;
+    color:crimson;
+    padding: 15px;
+    font-weight: 700;
+    align-items: center;
+    justify-content: center;
+    font-size: medium;
+}
+
