@@ -4,7 +4,7 @@ Video of the UI/UX design for it using HTML & CSS at initial stage of learning!
 <br>
 Watch Video:
 
-https://github.com/user-attachments/assets/361eda66-e294-45c3-80d6-b2f08c9182ae
+[https://github.com/user-attachments/assets/361eda66-e294-45c3-80d6-b2f08c9182ae](https://github.com/user-attachments/assets/bee48209-74ea-4309-87d2-170d9eb5c72e)
 
 <br>
 <br>
